@@ -1,0 +1,12 @@
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp2.1\ProblematicProblem.deps.json
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp2.1\ProblematicProblem.runtimeconfig.json
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp2.1\ProblematicProblem.runtimeconfig.dev.json
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp2.1\ProblematicProblem.dll
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp2.1\ProblematicProblem.pdb
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.AssemblyInfoInputs.cache
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.AssemblyInfo.cs
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.dll
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.pdb
+C:\Users\amcel\repos\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp2.1\ProblematicProblem.genruntimeconfig.cache
